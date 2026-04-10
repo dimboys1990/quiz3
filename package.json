@@ -1,0 +1,24 @@
+{
+  "name": "intercept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimboys1990/quiz3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dimboys1990/quiz3/issues"
+  },
+  "homepage": "https://github.com/dimboys1990/quiz3#readme",
+  "devDependencies": {
+    "cypress": "^15.13.1"
+  }
+}
